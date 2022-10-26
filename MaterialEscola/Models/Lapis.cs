@@ -39,7 +39,7 @@ namespace Models
         }
         public void QuebrarPonta()
         {
-            if (PercentualGrafite < 15) 
+            if (PercentualGrafite < 15) ;
         }
     }
 }

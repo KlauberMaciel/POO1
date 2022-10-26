@@ -132,5 +132,5 @@ namespace Models
             Console.WriteLine("Caida: " + this.Caida);
             Console.WriteLine("Estourada: " + this.Estourada);
         }
-    }
+    } 
 }
