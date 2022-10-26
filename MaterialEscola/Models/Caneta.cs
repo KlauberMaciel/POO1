@@ -1,5 +1,4 @@
-﻿using System.Reflection.PortableExecutable;
-
+﻿
 namespace Models
 {
     public class Caneta
@@ -81,6 +80,7 @@ namespace Models
                 Console.WriteLine("Acaneta está estourada :(");
                 return;
             }
+           
 
             Console.WriteLine(_texto);
             GastaTrinta();
