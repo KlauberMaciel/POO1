@@ -41,10 +41,17 @@ namespace Models
 
 		public void Apagar()
 		{
-			if (pecentualBorracha >= 10 )
+			if (pecentualBorracha >= 2)
 			{
 				Console.Clear();
-				pecentualBorracha -= 5;
+				pecentualBorracha -= 2;
+                return;
+            }
+
+			if(pecentualBorracha < 2)
+			{
+				Console.WriteLine("Não foi possível apagar, compre outa borracha. ");
+				return;
 			}
 		}
 			public void MostrarBorracha()
