@@ -16,7 +16,7 @@ internal class Progran
 
         Models.Apotado1 op = new Models.Apotado1("oi", "azul", 100);
         op.Afiar();
-       // op.LaminaVelha();
+       op.LaminaVelha();
         op.MostraApo();
 
        
