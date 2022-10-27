@@ -6,12 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <EditorConfigFiles Remove="C:\Users\aluno\Documents\GitHub\POO1\MaterialEscola\Models\.editorconfig" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="C:\Users\aluno\Documents\GitHub\POO1\MaterialEscola\Models\.editorconfig" />
-  </ItemGroup>
-
 </Project>

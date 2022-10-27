@@ -3,11 +3,11 @@ namespace Models
 {
     public class Apotado1
     {
-		private bool lamina;
+		private int lamina;
          private string  marca;
          private string cor;
 
-        public bool Lamina
+        public int Lamina
         {
 			get { return lamina; }
 			set { lamina = value; }
@@ -28,32 +28,41 @@ namespace Models
 			set { cor = value; }
 		}
 
-		public Apotado1 ( string _marca, string _cor)
+		public Apotado1 ( string _marca, string _cor,int _lamina)
 		{
-			lamina = true;
 			Marca = _marca;
 			Cor = _cor;
-		
+		    lamina = _lamina;
 		}
 
 		public void Afiar()
 		{
 
-			if (lamina)
+			if (lamina>0)
 			{
                 Console.WriteLine("Lapis apontado ;)");
-
+				lamina -= 2;
+				
                 return;
 			}
         }
 		public void LaminaVelha()
 		{
-			lamina = !lamina;
-			Console.WriteLine("A Ponta esta velha ");
+			
+				lamina = 0;
+				Console.WriteLine("A Lamina esta velha ");
+                return;
+            
            
         }
+		public void LaminaNova()
+		{
+			lamina = 100;
+			Console.WriteLine("Lamina Nova. ");
+            return;
+        }
 
-		public void Mostra()
+		public void MostraApo()
 		{
 			Console.WriteLine("Lamina: "+ lamina);
 			Console.WriteLine("Cor:"+ cor);

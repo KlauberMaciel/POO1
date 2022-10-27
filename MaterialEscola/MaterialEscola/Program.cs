@@ -13,6 +13,13 @@ internal class Progran
         lapis.QuebrarPonta();
         lapis.Apontar();
         lapis.Escrever("Teste");
-        
+
+        Models.Apotado1 op = new Models.Apotado1("oi", "azul", 100);
+        op.Afiar();
+       // op.LaminaVelha();
+        op.MostraApo();
+
+       
     }
-}
+} //Models.Borracha oop = new Models.Borracha("Borracha", "azul", 100);
+       //oop.Apagar();

@@ -4,7 +4,7 @@
 
 namespace Models
 {
-    internal class Borracha
+    public class Borracha
     {
 		private string marca;
         private string cor;

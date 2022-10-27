@@ -2,7 +2,7 @@
 
 namespace Models
 {
-    internal class Caderno
+   public class Caderno
     {
 		private int quantidadeFolha;
         private int quantidadeMateria;
@@ -40,11 +40,13 @@ namespace Models
 			if (quantidadeFolha > 0)
 			{
 				QuantidadeFolha = quantidadeFolha - 1;
-			}
+                return;
+            }
 			if (quantidadeMateria <= 0)
 			{
 				Console.WriteLine("O seu caderno esta sem folha :(");
-			}
+                return;
+            }
 		}
 
 	}

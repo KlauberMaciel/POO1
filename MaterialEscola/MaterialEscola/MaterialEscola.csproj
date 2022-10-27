@@ -11,4 +11,12 @@
     <ProjectReference Include="..\Models\Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\aluno\Documents\GitHub\POO1\MaterialEscola\MaterialEscola\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\aluno\Documents\GitHub\POO1\MaterialEscola\MaterialEscola\.editorconfig" />
+  </ItemGroup>
+
 </Project>
