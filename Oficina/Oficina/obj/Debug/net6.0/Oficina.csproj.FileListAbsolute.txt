@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\bin\Debug\net6.0\Oficina.exe
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\bin\Debug\net6.0\Oficina.deps.json
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\bin\Debug\net6.0\Oficina.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\bin\Debug\net6.0\Oficina.dll
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\bin\Debug\net6.0\Oficina.pdb
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.dll
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\refint\Oficina.dll
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.pdb
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\Oficina.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\POO1\Oficina\Oficina\obj\Debug\net6.0\ref\Oficina.dll
