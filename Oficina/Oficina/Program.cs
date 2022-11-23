@@ -17,7 +17,7 @@ internal class Program
 
         corcel.LigarDesligar();
 
-       //corcel.PneuTrazeiroEsquerdo = meupneu;
+       corcel.PneuTrazeiroEsquerdo = meupneu;
         
         corcel.Acelerar(500);
         meupneu.Frear(10);

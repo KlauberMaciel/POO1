@@ -71,6 +71,7 @@
             if (Rotacao < 0)
             {
 
+
                 Rotacao = 0;
 
 
@@ -87,8 +88,6 @@
 
                 Rotacao = 0;
               
-                
-
             }
 
             GastarBorracha(_abatimento / 100.0);
